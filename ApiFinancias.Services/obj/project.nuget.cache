@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tMBrTUtuC/0hlddChipNmVyJqRtTljQZzV44Zs3IroF+OS3mW2AextUj+bsuTJHfraCOc/QEBPduiCSkv7iJSg==",
+  "dgSpecHash": "Tn8pcDCROtZK9OmgpK/fxc/H5vVHT4W3j7ki2V1Z344poOw23mqqti2pB2U2U4EC2JBLy/D7u02NU78X6B8P1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\eliseu\\Desktop\\Controle_Finacias\\ApiFinancias\\ApiFinancias.Services\\ApiFinancias.Services.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\eliseu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\eliseu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\eliseu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\eliseu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.5\\microsoft.aspnetcore.authentication.jwtbearer.7.0.5.nupkg.sha512",
     "C:\\Users\\eliseu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\eliseu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\eliseu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
