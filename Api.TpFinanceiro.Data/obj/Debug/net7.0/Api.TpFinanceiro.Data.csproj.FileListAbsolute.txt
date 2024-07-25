@@ -1,0 +1,14 @@
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\bin\Debug\net7.0\Api.TpFinanceiro.Data.deps.json
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\bin\Debug\net7.0\Api.TpFinanceiro.Data.dll
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\bin\Debug\net7.0\Api.TpFinanceiro.Data.pdb
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\obj\Debug\net7.0\Api.TpFinanceiro.Data.csproj.AssemblyReference.cache
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\obj\Debug\net7.0\Api.TpFinanceiro.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\obj\Debug\net7.0\Api.TpFinanceiro.Data.AssemblyInfoInputs.cache
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\obj\Debug\net7.0\Api.TpFinanceiro.Data.AssemblyInfo.cs
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\obj\Debug\net7.0\Api.TpFinanceiro.Data.csproj.CoreCompileInputs.cache
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\obj\Debug\net7.0\Api.TpFinanceiro.Data.dll
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\obj\Debug\net7.0\refint\Api.TpFinanceiro.Data.dll
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\obj\Debug\net7.0\Api.TpFinanceiro.Data.pdb
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\obj\Debug\net7.0\ref\Api.TpFinanceiro.Data.dll
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\bin\Debug\net7.0\Api.TpFinanceiro.Data.runtimeconfig.json
+C:\Users\eliseu\Desktop\Controle_Finacias\ApiFinancias\Api.TpFinanceiro.Data\obj\Debug\net7.0\Api.TpFinanceiro.Data.genruntimeconfig.cache
